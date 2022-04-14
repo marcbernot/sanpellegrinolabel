@@ -1,0 +1,4 @@
+xarray==0.17.0
+holoviews==1.14.8
+hvplot==0.7.3
+scikit-image==0.18
